@@ -1,0 +1,10 @@
+Запуск производиться с файла Inject
+После запуска Кнопка add dll - quasar.dll
+Запускаете CSGO
+Кнопка Select выбираете процесс CSGO.exe
+Inject
+
+HOW TO USE:
+Меню: INSERT
+
+Инструкция https://www.youtube.com/watch?time_continue=134&v=29XcoFsd_Hs&feature=emb_logo
